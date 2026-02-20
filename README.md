@@ -1,6 +1,6 @@
 <div>
-  <div>
-    <p><img src="https://i.pinimg.com/originals/d9/64/57/d9645741e0ed635f63118f77f5ad48d1.gif" alt="javad sajjadi"></p>
+  <div align="center">
+    <p><img src="https://github.githubassets.com/assets/profile-first-repo-fe2c6ecdd20b.svg" alt="javad sajjadi"></p>
   </div>
   <div>
     <p align="center">
