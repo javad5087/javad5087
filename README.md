@@ -9,7 +9,7 @@
  · <a align="center" href="https://mastodon.social/javadsajjadi">ماستۆدۆن</a>
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javad5087&show_icons=true)
+
   </div>
 </div>  
 
