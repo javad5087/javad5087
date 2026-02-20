@@ -1,4 +1,4 @@
-  <p><img src="https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg" alt="Eana Hufwe"></p>
+  <p><img src="https://cdn.dribbble.com/userupload/42229052/file/original-16fa3e2831f58aea666b175a61524eaa.gif" alt="javad sajjadi"></p>
 <p align="center">
 نوشتن روزانه مطالب در شبکه‌های اجتماعی و بلاگ.<br>
 <br>
