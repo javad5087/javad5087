@@ -9,7 +9,7 @@
  · <a align="center" href="https://mastodon.social/javadsajjadi">ماستۆدۆن</a>
 <br>
 <br>
-
+![آمار فعالیت](https://github-readme-stats.vercel.app/api?username=javad5087&show_icons=true&theme=radical)
 </p>
   </div>
 </div>  
