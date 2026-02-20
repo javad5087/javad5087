@@ -4,11 +4,9 @@
   </div>
   <div>
     <p align="center">
-نوشتن روزانه مطالب در شبکه‌های اجتماعی و بلاگ.<br>
-<br>
-
- · <a href="https://javadsajjadi.ir">وبلاگ</a>
- · <a href="https://mastodon.social/javadsajjadi">ماستۆدۆن</a>
+نوشتن روزانه مطالب در شبکه‌های اجتماعی و بلاگ.<br
+ · <a align="center" href="https://javadsajjadi.ir">وبلاگ</a>
+ · <a align="center" href="https://mastodon.social/javadsajjadi">ماستۆدۆن</a>
 <br>
 <br>
 
